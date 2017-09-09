@@ -1,6 +1,6 @@
 # Cobalt2 for Hyperterm
 
-![](http://d.pr/i/fLuj.jpg)
+![](https://i.imgur.com/7uwsMfm.png)
 
 This is a purple color fork of Cobalt2 hyperterm theme by my friend Wes Bos.
 
