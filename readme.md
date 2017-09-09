@@ -36,6 +36,8 @@ This is a purple color fork of Cobalt2 hyperterm theme by my friend Wes Bos.
 	```
 3. Enjoy your life
 
+__OPTOIONAL__: If you have HPM installed then all you have to do is run `hpm install hyperterm-cobalt3-theme`
+
 ## FAQ
 
 ### Q: What font is that? I Love It!
