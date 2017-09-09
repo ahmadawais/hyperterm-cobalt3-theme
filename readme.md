@@ -1,6 +1,26 @@
-# Cobalt2 for Hyperterm
 
-![](https://i.imgur.com/7uwsMfm.png)
+<table width='100%'>
+    <tr>
+        <td align='left' width='100%' colspan='2'>
+            <strong>Cobalt3 for Hyperterm</strong><br />
+            Cobalt3 theme for Hyperterm — purple colored fork of Cobalt2.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            A FOSS (Free & Open Source Software) project. Maintained by <a href='https://github.com/ahmadawais'>@AhmadAwais</a>.
+        </td>
+        <td align='center'>
+            <a href='https://AhmadAwais.com/'>
+                <img src='https://i.imgur.com/Asg4d3k.png' width='100' />
+            </a>
+        </td>
+    </tr>
+</table>
+
+# Cobalt3 for Hyperterm
+
+![screenshot](https://i.imgur.com/V6mRtZ3.png)
 
 This is a purple color fork of Cobalt2 hyperterm theme by my friend Wes Bos.
 
