@@ -7,13 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-  "hyperterm",
-  "theme",
-  "cobalt",
-  "cobalt3",
-  "cobalt2",
-  "ahmad",
-  "awais"
+    "hyperterm",
+    "theme",
+    "cobalt",
+    "cobalt3",
+    "cobalt2",
+    "ahmad",
+    "awais"
   ],
   "author": "Ahmad Awais",
   "license": "ISC"
