@@ -2,14 +2,16 @@
 
 ![](http://d.pr/i/fLuj.jpg)
 
+This is a purple color fork of Cobalt2 hyperterm theme by my friend Wes Bos.
+
 ## Installing
 
 1. Open your `~/.hyperterm.js` config file with something like `subl ~/.hyperterm.js` or `vim ~/.hyperterm.js`.
-2. Add `hyperterm-cobalt2-theme` to your `plugins` array. Kinda like this:
+2. Add `hyperterm-cobalt3-theme` to your `plugins` array. Kinda like this:
 
 	```js
 	plugins: [
-	  'hyperterm-cobalt2-theme'
+	  'hyperterm-cobalt3-theme'
 	],
 	```
 3. Enjoy your life
@@ -36,6 +38,8 @@ fontFamily: '"Operator Mono", "Inconsolata for Powerline", monospace'
 **A:** Yes please! Still working on this. I might not accept your edits, but I probably will.
 
 ## You might also like
+
+🔥 [Cobalt3 for iTerm](https://github.com/ahmadawais/Cobalt3-iTerm)
 
 🔥 [Cobalt2 for Sublime Text](https://github.com/wesbos/Cobalt2)
 

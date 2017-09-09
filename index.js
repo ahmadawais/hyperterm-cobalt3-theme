@@ -3,7 +3,7 @@ const black = '#000000';
 const red = '#ff2600';
 const green = '#46dd3c';
 const yellow = '#fee553';
-const blue = '#1478db';
+const blue = '#5D37F0';
 const magenta = '#ff2c70';
 const cyan = '#00c5c7';
 const white = '#c7c7c7';
@@ -17,7 +17,7 @@ const lightCyan = '#00ffff';
 const lightWhite = '#ffffff';
 
 // custom colours
-const cobalt2blue = '#193549';
+const cobalt3purple = '#291C33';
 const variableBlue = '#0d3a58';
 const dustyBlue = '#34424C';
 const highlightBlue = '#1F4662';
@@ -25,7 +25,7 @@ const highlightBlue = '#1F4662';
 exports.decorateConfig = (config) => Object.assign({}, config, {
   cursorColor: yellow,
   foregroundColor: white,
-  backgroundColor: cobalt2blue,
+  backgroundColor: cobalt3purple,
   borderColor: 'rgba(255,255,255,0.05)',
   css: `
     ${config.css || ''}
