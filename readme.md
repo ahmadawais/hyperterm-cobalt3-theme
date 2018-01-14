@@ -20,6 +20,8 @@
 
 # Cobalt3 for Hyperterm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/hyperterm-cobalt3-theme.svg)](https://greenkeeper.io/)
+
 ![screenshot](https://i.imgur.com/V6mRtZ3.png)
 
 This is a purple color fork of Cobalt2 hyperterm theme by my friend Wes Bos.
